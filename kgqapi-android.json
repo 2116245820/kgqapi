@@ -1,11 +1,5 @@
 {
     "code": 200,
-    "name": "操作成功",
     "message": "success",
-    "data": [
-        {
-            "host": "MzVkODgzODU0YjU4YTc5Y2UyYjM1MDcyYTE4YmJmNzk=",
-            "remark": "aliyun"
-        }
-    ]
+    "data": "tgF66Ruku08qBEaTYLye+aT40diRFanGzdeeP0gdoHCCY3iaD1pCo4Fj2bTAVMV1"
 }
